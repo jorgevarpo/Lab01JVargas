@@ -1,0 +1,6 @@
+C:\Users\jorge\source\repos\Lab01JorgeVargas\Lab01JorgeVargas\bin\Debug\Lab01JorgeVargas.dll
+C:\Users\jorge\source\repos\Lab01JorgeVargas\Lab01JorgeVargas\bin\Debug\Lab01JorgeVargas.pdb
+C:\Users\jorge\source\repos\Lab01JorgeVargas\Lab01JorgeVargas\obj\Debug\Lab01JorgeVargas.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\Lab01JorgeVargas\Lab01JorgeVargas\obj\Debug\Lab01JorgeVargas.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Lab01JorgeVargas\Lab01JorgeVargas\obj\Debug\Lab01JorgeVargas.dll
+C:\Users\jorge\source\repos\Lab01JorgeVargas\Lab01JorgeVargas\obj\Debug\Lab01JorgeVargas.pdb
